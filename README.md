@@ -1,1 +1,1 @@
-![image](image/sales report screenshot.jpg)
+![image](image/salesreportscreenshot.jpg)
