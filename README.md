@@ -1,1 +1,1 @@
-# Google-Ads-Dashboard
+![image]("image/sales report screenshot.jpg")
